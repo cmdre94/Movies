@@ -27,6 +27,6 @@ brown_sugar = media.Movie("Brown Sugar",
                         "https://www.youtube.com/watch?v=FGjaZBuciC8")
 
 movies = [friday, pulp_fiction, harlem_nights, training_day, baby_boy, brown_sugar]
-#fresh_tomatoes.open_movies_page(movies)
+fresh_tomatoes.open_movies_page(movies)
 #print (media.Movie.VALID_RATINGS)
-print (media.Movie.__doc__)
+#print (media.Movie.__doc__)

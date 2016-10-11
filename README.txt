@@ -1,6 +1,7 @@
 HOW TO RUN
 -Clone or download the repository
--Double-Click fresh_tomatoes.py to run
+-Open the Movies folder
+-Double-Click entertainment_center.py to run the application
 
 USING THE APP
 -Click on each movie poster image to view it's trailer
